@@ -6,6 +6,7 @@
     <title>login</title>
 </head>
 <body>
+    <h2>Login Page</h2>
     <form action="">
         <label>First Name</label>
         <input type="text" name="f_name" value="">
